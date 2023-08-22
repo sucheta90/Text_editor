@@ -1,14 +1,10 @@
 # Just Another Text Editor
 
-
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+In the era of Progressive Web Applications (PWAs), developers possess the capability to craft applications that seamlessly straddle the realms of the web and downloadable apps. This particular application harnesses the power of IndexedDB, a cutting-edge NoSQL database technology that facilitates local data storage within the browser environment. Enhancing the user experience even in offline scenarios, cached data can be effortlessly retrieved and showcased as valuable resources, ensuring uninterrupted access for users.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+Functioning as a text editor with JavaScript syntax highlighting, this application enables users to seamlessly engage with coding. Users can access the app through their browser via the URL or opt to install it on their local device for enhanced convenience. Emphasizing a user-centric approach, the application boasts automated data saving, ensuring that user progress is consistently preserved. This stored data seamlessly resurfaces upon subsequent visits, fostering a smooth and uninterrupted user experience.
 
 ## Table of Contents (Optional)
 
@@ -17,52 +13,33 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
-- [License](#license)
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+User can initiate the installation of this application by clicking the "Install" button located at the upper left corner or can access the app through their browser via the URL.
+
+<h4>To View the web application, please click on the link below.</h4>
+
+[JATE - Just Another Text Editor](https://serene-dusk-57464-84a36ffb8ecc.herokuapp.com/)
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Operating as a text editor featuring JavaScript syntax highlighting, this application empowers users to seamlessly immerse themselves in coding activities. Accessible either via the browser's URL or as a locally installed option, the app prioritizes user convenience. With a strong focus on user satisfaction, the application includes an automated data-saving mechanism, guaranteeing the continuous preservation of user work. This cached data effortlessly reappears during subsequent visits, cultivating a fluid and uninterrupted user journey.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Here are some screen shots from the app.
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+<h2>JATE in the browser</h2>
+
+# ![JATE in the Browser](<assets/Screenshot 2023-08-22 at 6.28.06 PM.png>)
+
+<h2>The Installation Prompt</h2>
+
+# ![Alt text](<assets/Screenshot 2023-08-22 at 6.28.41 PM.png>)
+
+<h2>Installed Application</h2>
+
+![Installed Application](<assets/Screenshot 2023-08-22 at 6.29.41 PM.png>)
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
-## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your
+Class Activities and documentation on Webpack, Service Workers, Index DB, Google Workbox.
